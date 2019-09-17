@@ -41,7 +41,7 @@
 /*********************/
 /** Module required **/
 /*********************/
-var MOD_I2C = require('i2c');
+var MOD_I2C = require('@abandonware/i2c');
 var extend = require('extend');
 var sleep = require('sleep');
 
